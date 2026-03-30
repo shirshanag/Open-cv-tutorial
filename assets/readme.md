@@ -1,4 +1,4 @@
 ```
-This folder contin all the pictures for image processing
+This folder contain all the pictures for image processing
 
 ```
